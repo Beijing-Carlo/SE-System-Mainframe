@@ -7,6 +7,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Include=".github\copilot-instructions.md" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Reference Include="CppNet">
       <HintPath>..\..\..\..\..\Program Files\Steam\steamapps\common\SpaceEngineers\Bin64\CppNet.dll</HintPath>
     </Reference>
